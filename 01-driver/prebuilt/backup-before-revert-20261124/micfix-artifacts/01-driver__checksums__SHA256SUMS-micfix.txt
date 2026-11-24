@@ -1,0 +1,3 @@
+3f37195b239580aa445fda734af82899499725a192261dd628b59d51bf6121d1  kexts/applealc-sn6140/AppleALC.kext/Contents/MacOS/AppleALC
+bb26bdbe89df44e568896be3275800dc735cf621e90b11116a3687e684a7cbf5  kexts/applealc-sn6140/AppleALC.kext/Contents/Info.plist
+8882f0b90a8de846da43efc023bb6ae437982eced19384a6e343bfdd5cf9202c  01-driver/source/Resources/SN6140/layout15.xml.zlib
